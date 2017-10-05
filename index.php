@@ -1,3 +1,3 @@
 <?php
-echo "It dfsdfsdfsdfsdfdsfsfworks 2!";
+echo "php working on ec2";
 ?>
